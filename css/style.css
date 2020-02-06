@@ -1,0 +1,27 @@
+#main-header{
+    background-color: black;
+    color:rgb(95, 0, 0);
+    font: 1em sans-serif;
+    
+    }
+        
+        #navbar{
+           background-color: rgb(116, 7, 7);
+           color: rgb(0, 0, 0); 
+        }
+        
+        #navbar ul{
+            padding:0;
+            list-style: none;
+        }
+        
+        #navbar li{
+        display: inline;
+        }
+        
+        #navbar a{
+            color:rgb(0, 0, 0);
+            text-decoration: none;
+            font-size: 18px;
+            padding-right: 15px;
+        }  
